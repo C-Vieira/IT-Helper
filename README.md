@@ -11,4 +11,6 @@ It's grown way too large for a batch script, for any possible additional feature
 
 Even though I myself wouldn't trust it to backup my files, it was a fun experiment that helped pass time...
 
-   * Credits to Microsoft and Postgresql for the helpful utilities (SaRACmd and psql)!
+   * NOTE: To use the "Uninstall MS Office" feature, first get the Microsoft Support and Recovery Assistant from: https://learn.microsoft.com/en-us/microsoft-365/troubleshoot/administration/assistant-office-uninstall and extract its contents into a "_Utils" folder on the same directory as the other scripts.
+    
+   * All credits to Microsoft and Postgresql for the helpful utilities (SaRACmd and psql)!
